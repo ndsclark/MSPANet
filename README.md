@@ -88,6 +88,16 @@
 ## Citation
 If you find MSPA useful in your research, please consider citing:
 
+    @article{2024mspa,
+    	title={Multi-scale spatial pyramid attention mechanism for image recognition: An effective approach},
+		author={Yu, Yang and Zhang, Yi and Cheng, Zeyu and Song, Zhe and Tang, Chengkai},
+		journal={Engineering Applications of Artificial Intelligence},
+		volume={133},
+		pages={108261},
+		year={2024},
+		publisher={Elsevier}
+	}
+
 
 ## Contact Information
 
