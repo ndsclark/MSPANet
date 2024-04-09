@@ -8,10 +8,10 @@
 ## Method
 
 <div align="center">
-  <img src="figures/fig1.png">
+	<img src="figures/fig1.png">
 </div>
 <p align="left">
-  Figure 1: The overall architecture of the proposed MSPA module.
+	Figure 1: The overall architecture of the proposed MSPA module.
 </p>
 
 
@@ -36,10 +36,10 @@
 ## How to incorporate the proposed MSPA module into ResNets
 
 <div align="center">
-  <img src="figures/fig2.png">
+	<img src="figures/fig2.png">
 </div>
 <p align="left">
-  Figure 2: Comparison between the original bottleneck residual block (left) and the basic building block of the proposed MSPANet (right).
+	Figure 2: Comparison between the original bottleneck residual block (left) and the basic building block of the proposed MSPANet (right).
 </p>
 
 
@@ -48,40 +48,40 @@
 ### Comparison of the performance of MSPANet-50 with the change of s and ω on CIFAR-100 classification
 
 <div align="center">
-  <img src="figures/fig3.png">
+	<img src="figures/fig3.png">
 </div>
 <p align="left">
-  Figure 3: Comparison of the performance of MSPANet-50 with the change of s and ω on CIFAR-100 classification. 
+	Figure 3: Comparison of the performance of MSPANet-50 with the change of s and ω on CIFAR-100 classification. 
 </p>
 
 
 ### Comparison of training and validation curves on ImageNet-1K
 
 <div align="center">
-  <img src="figures/fig4.png">
+	<img src="figures/fig4.png">
 </div>
 <p align="left">
-  Figure 4: Comparisons of training and validation curves on ImageNet-1K for ResNet, MSPANet-S, and MSPANet-B architectures of 50 and 101 layers, respectively.
+	Figure 4: Comparisons of training and validation curves on ImageNet-1K for ResNet, MSPANet-S, and MSPANet-B architectures of 50 and 101 layers, respectively.
 </p>
 
 
 ### Classification performance on CIFAR-100
 
 <div align="center">
-  <img src="figures/fig5.png">
+	<img src="figures/fig5.png">
 </div>
 <p align="left">
-  Figure 5: Comparisons of various attention methods on the CIFAR-100 test set in terms of network parameters (Parameters), floating-point operations (FLOPs), and Top-1 accuracy (Top-1 Acc), using ResNet-50, ResNeXt-29, and PreActResNet-164 as baselines, respectively.
+	Table 1: Comparisons of various attention methods on the CIFAR-100 test set in terms of network parameters (Parameters), floating-point operations (FLOPs), and Top-1 accuracy (Top-1 Acc), using ResNet-50, ResNeXt-29, and PreActResNet-164 as baselines, respectively.
 </p>
 
 
 ### Classification performance on ImageNet-1K
 
 <div align="center">
-  <img src="figures/fig6.png">
+	<img src="figures/fig6.png">
 </div>
 <p align="left">
-  Figure 6: Comparisons of efficiency (i.e., Parameters and FLOPs) and effectiveness (i.e., Top-1/Top-5Acc) of various attention methods and different multi-scale representation architectures on the ImageNet-1K validation set.
+	Table 2: Comparisons of efficiency (i.e., Parameters and FLOPs) and effectiveness (i.e., Top-1/Top-5Acc) of various attention methods and different multi-scale representation architectures on the ImageNet-1K validation set.
 </p>
 
 
